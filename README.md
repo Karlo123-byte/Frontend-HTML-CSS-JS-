@@ -1,0 +1,1 @@
+22.2 Uradio sam automatizaciju VS Code sa Git Hubom vise ne trebam mijenjati i brisati kod.
